@@ -104,6 +104,7 @@
 Элемент строки поиска вылезает за границы соседних элементов
 
 ![b15p1](https://i.imgur.com/IeUrci8.png)
+
 ![b15p2](https://i.imgur.com/UbDCvLK.png)
 
 ### Баг 16
