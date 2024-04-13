@@ -134,6 +134,7 @@
 В данных элементах
 
 ![b20p1](https://i.imgur.com/79HV8PA.png)
+
 ![b20p2](https://i.imgur.com/08SMmeh.png)
 
 Также у дизайнера толщину этих элементов
