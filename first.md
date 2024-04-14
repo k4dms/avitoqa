@@ -6,7 +6,7 @@
 ### Баг 1
 Логотип Avito  написан с ошибкой
 
-![b1p1](https://i.imgur.com/GQiZjf3.png)
+![b1p1](https://github.com/k4dms/avitoqa/blob/main/firstscreen/p1.png)
 
 ### Баг 2
 В результатах поиска появляется вариант с исключенным параметром памяти **«256 ГБ»**
