@@ -36,7 +36,7 @@ class TestElements:
                 "blocks": {
                     "personalImpact": {
                         "data": {
-                            "co2": 99
+                            "co2": 999
                             ,
                             "energy": 999,
                             "materials": 14,

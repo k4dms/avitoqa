@@ -1,7 +1,7 @@
 ## Testcase 1
 |CO2|Est.|Water|Est.|Energy|Est.|
 |--|--|--|--|--|--|
-|0|Кг.|0|Дизейбл|0|Ватт|
+|0|Дизейбл|0|Дизейбл|0|Дизейбл|
 
 ![T1](https://github.com/k4dms/avitoqa/blob/main/second/output/Testcase1.png)
 ## Testcase 2
